@@ -3,7 +3,7 @@
 Distributes connections to a set number of servers from a listen port. Will prioritize servers that have the least amount of errors. If servers go down it will avoid using those servers until they respond. The type of server that this load balancer supports is located in the C-Multi-Threaded-Server repository.
 
 ## Past Assignment
-This load balancer was an assignment from my principles of computer systems Design class when I was an undergrad at UCSC.
+This load balancer was an assignment from my principles of computer systems design class when I was an undergrad at UCSC.
 
 ## Executing program
 
